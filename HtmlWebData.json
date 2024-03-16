@@ -1,0 +1,237 @@
+{
+    "array": [
+      1,
+      2,
+      3
+    ],
+    "boolean": true,
+    "color": "gold",
+    "null": null,{
+     "listings":[
+        {
+           "listing":{
+              "id":5527249,
+              "title":"Newmarket Yards, Newmarket, Dublin 8",
+              "seoTitle":"Newmarket Yards, Newmarket, Dublin 8",
+              "sections":[
+                 "Property",
+                 "Private Rental Sector",
+                 "Apartments"
+              ],
+              "saleType":[
+                 "To Let"
+              ],
+              "featuredLevel":"FEATURED",
+              "featuredLevelFull":"FEATURED_PLUS",
+              "publishDate":1710548942000,
+              "price":"From €2,250 per month",
+              "abbreviatedPrice":"€2,250+",
+              "numBedrooms":"1 & 2 bed",
+              "propertyType":"Apartments",
+              "daftShortcode":"918778912",
+              "seller":{
+                 "sellerId":6534,
+                 "name":"Newmarket Yards Leasing Team",
+                 "branch":"MD Living",
+                 "address":"38 Upper Baggot Street,\r\nDublin 4",
+                 
+                 
+                 "backgroundColour":"#ffffff",
+                 "licenceNumber":"001806",
+                 "sellerType":"BRANDED_AGENT",
+                 "showContactForm":true,
+                 "premierPartnerSeller":false
+              },
+              "dateOfConstruction":"NA",
+              "media":{
+                 "totalImages":27,
+                 "hasVideo":false,
+                 "hasVirtualTour":false,
+                 "hasBrochure":false
+              },
+              "ber":{
+                 "rating":"A2"
+              },
+              "platform":"WEB",
+              "point":{
+                 "type":"Point",
+                 "coordinates":[
+                    -6.277483956685103,
+                    53.33803886630662
+                 ]
+              },
+              "seoFriendlyPath":"/for-rent/newmarket-yards-newmarket-dublin-8/5527249",
+              "prs":{
+                 "totalUnitTypes":5,
+                 "tagLine":"Modern Living"
+              },
+            
+              "category":"Rent",
+              "state":"PUBLISHED",
+              "premierPartner":false
+           },
+           "savedAd":false
+        },
+        {
+           "listing":{
+              "id":5310423,
+              "title":"8th Lock , Ratoath Road, Ashtown , Dublin 11",
+              "seoTitle":"8th Lock , Ratoath Road, Ashtown , Dublin 11",
+              "sections":[
+                 "Property",
+                 "Private Rental Sector",
+                 "Apartments"
+              ],
+              "saleType":[
+                 "To Let"
+              ],
+              "featuredLevel":"FEATURED",
+              "featuredLevelFull":"FEATURED_PLUS",
+              "publishDate":1710548342000,
+              "price":"From €1,900 per month",
+              "abbreviatedPrice":"€1,900+",
+              "numBedrooms":"1 & 2 bed",
+              "propertyType":"Apartments",
+              "daftShortcode":"916696045",
+              "seller":{
+                 "sellerId":2619,
+                 "name":"8th Lock",
+                 "branch":"Savills Molesworth Street",
+                 
+                 "backgroundColour":"#fee775",
+                 "licenceNumber":"002233",
+                 "sellerType":"BRANDED_AGENT",
+                 "showContactForm":true,
+                 "premierPartnerSeller":true
+              },
+              "dateOfConstruction":"NA",
+              "media":{
+            
+                 "totalImages":19,
+                 "hasVideo":false,
+                 "hasVirtualTour":false,
+                 "hasBrochure":false
+              },
+              "ber":{
+                 "rating":"A2"
+              },
+              "platform":"WEB",
+              "point":{
+                 "type":"Point",
+                 "coordinates":[
+                    -6.309066266937265,
+                    53.3753383143067
+                 ]
+              },
+              "seoFriendlyPath":"/for-rent/8th-lock-ratoath-road-ashtown-dublin-11/5310423",
+              "prs":{
+                 "totalUnitTypes":2,
+                 "tagLine":"Stylish, Convenient and Connected Living"
+              },
+              "pageBranding":{
+                 
+                 "backgroundColour":"#fee775",
+            
+              },
+              "category":"Rent",
+              "state":"PUBLISHED",
+              "premierPartner":false
+           },
+           "savedAd":false
+        },
+        {
+           "listing":{
+              "id":5527928,
+              "title":" Barnoaks, The Green, Citywest, Co. Dublin",
+              "seoTitle":" Barnoaks, The Green, Citywest, Co. Dublin",
+              "sections":[
+                 "Property",
+                 "Private Rental Sector",
+                 "Apartments"
+              ],
+              "saleType":[
+                 "To Let"
+              ],
+              "featuredLevel":"FEATURED",
+              "featuredLevelFull":"FEATURED_PLUS",
+              "publishDate":1710547742000,
+              "price":"From €1,925 per month",
+              "abbreviatedPrice":"€1,930+",
+              "numBedrooms":"1, 2 & 3 bed",
+              "propertyType":"Apartments",
+              "daftShortcode":"918782790",
+              "seller":{
+                 "sellerId":13192,
+                 "name":"Storyhouse Properties",
+                 "branch":"Storyhouse Properties Limited",
+                 
+                 "backgroundColour":"#334038",
+                 "licenceNumber":"004557",
+                 "sellerType":"BRANDED_AGENT",
+                 "showContactForm":true,
+                 "premierPartnerSeller":false
+              },
+              "dateOfConstruction":"NA",
+              "media":{
+                
+                 "totalImages":5,
+                 "hasVideo":false,
+                 "hasVirtualTour":false,
+                 "hasBrochure":false
+              },
+              "ber":{
+                 "rating":"A1"
+              },
+              "platform":"WEB",
+              "point":{
+                 "type":"Point",
+                 "coordinates":[
+                    -6.420131669334353,
+                    53.28005835188762
+                 ]
+              },
+              "seoFriendlyPath":"/for-rent/-barnoaks-the-green-citywest-co-dublin/5527928",
+              "prs":{
+                 "totalUnitTypes":3,
+                 "tagLine":"Stunning Development "
+              },
+              "pageBranding":{
+                 
+                 "backgroundColour":"#334038",
+                 "squareLogos":[
+                    "https://med"
+                 ],
+                 "rectangleLogo":"https:/"
+              },
+              "category":"Rent",
+              "state":"PUBLISHED",
+              "premierPartner":false
+           },
+           "savedAd":false
+        },
+        {
+           "listing":{
+              "id":4496445,
+              "title":"Two Oaks , Scholarstown Road , Knocklyon, Dublin 16",
+              "seoTitle":"Two Oaks , Scholarstown Road , Knocklyon, Dublin 16",
+              "sections":[
+                 "Property",
+                 "Private Rental Sector",
+                 "Apartments"
+              ],
+              "saleType":[
+                 "To Let"
+              ],
+              "featuredLevel":"FEATURED",
+              "featuredLevelFull":"FEATURED_PLUS",
+              "publishDate":1710547142000,
+              "price":"From €1,875 per month",
+              "abbreviatedPrice":"€1,880",
+              "numBedrooms":"1 bed",
+              "propertyType":"Apartments",
+              "daftShortcode":"914142559",
+              "seller":{
+                 "sellerId":9234,
+                 "name":"Two Oaks",
+                 "branch":"DMPC Ltd",
+                 "address":"Unit 12\r\nKnockmitten Business Park \r\nKnockmitten Lane\r\nDublin 12 \r\nD12H586"}}]}}
